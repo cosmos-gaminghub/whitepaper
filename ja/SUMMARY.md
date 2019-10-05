@@ -1,0 +1,48 @@
+# Summary
+
+* [Nibiru Whitepaper](README.md#top)
+* [概要](README.md#abstract)
+
+* [導入](README.md#introduction)
+	* [Our Vision](README.md#vision)
+	* [Nibiruの根本原理](README.md#principles)
+    * [ゲームプレイヤーが恩恵を受ける仕組み](README.md#sbp)
+    * [ゲーム開発者がNibiru上で開発を容易に行える仕組み](README.md#sgdd)
+    * [次世代型のゲームのあり方を提示する](README.md#pngg)
+
+* [背景](README.md#background)
+	* [急成長するゲーム市場](README.md#egi)
+	* [現在のゲーム業界の課題](README.md#ifcgi)
+	* [ブロックチェーン技術の登場](README.md#egt)
+
+* [課題](README.md#problems)
+  * [ブロックチェーン業界における課題](README.md#ifbi)
+  * [現在のコンセンサスアルゴリズムの問題点](README.md#pcca)
+  * [Ethereumの問題点とTPSの必要性](README.md#ietps)
+  * [Smart Contractが抱える課題](README.md#psc)
+
+* [ソリューション](README.md#solutions)
+  * [ゲームに特化したNibiru Hub](README.md#nh)
+  * [ゲームに特化したブロックチェーンの利点](README.md#bgsb)
+  * [Token Model](README.md#rept)
+    * [REPT 分配メカニズム](README.md#dis)
+    * [Validator Management](README.md#vm)
+  * [Consensus Algorithm](README.md#consensus)
+    * [BFT Systems](README.md#bft)
+    * [Tendermint BFT Algorithm](README.md#tendermint)
+  * [Nibiru Functions](README.md#nf)
+    * [Wallet nad Account](README.md#wa)
+    * [Item Token](README.md#it)
+    * [Nibiru Dex and Auction](README.md#dex)
+    * [Player間のエスクロー取引](README.md#et)
+    * [Nibiru Funding](README.md#funding)
+    * [Nibiru SDK](README.md#sdk)
+
+* [結論](README.md#conclusion)
+
+* [参考文献](README.md#references)
+* [付録](README.md#appendices)
+  * [付録 A: Account State vs UTXOs](README.md#appendix-a)
+  * [付録 B: Ethereum上でのgame asetsの表現の仕方](README.md#appendix-b)
+  * [付録 C: DEX vs CEX](README.md#appendix-c)
+* [注意](README.md#risks)
