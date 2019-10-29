@@ -24,7 +24,7 @@
 * [ソリューション](README.md#solutions)
   * [ゲームに特化したGaming Hub](README.md#gh)
   * [ゲームに特化したブロックチェーンの利点](README.md#bgsb)
-  * [Token Model](README.md#tm)
+  * [Token Model](README.md#token)
     * [Validator Management](README.md#vm)
   * [Consensus Algorithm](README.md#consensus)
     * [BFT Systems](README.md#bft)

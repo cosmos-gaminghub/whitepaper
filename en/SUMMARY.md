@@ -24,7 +24,7 @@
 * [Solutions](README.md#solutions)
   * [Gaming Hub Specialized in Games](README.md#gh)
   * [The benefits of game specialized blockchain](README.md#bgsb)
-  * [Token Model](README.md#tm)
+  * [Token Model](README.md#token)
     * [Validator Management](README.md#vm)
   * [Consensus Algorithm](README.md#consensus)
     * [BFT Systems](README.md#bft)

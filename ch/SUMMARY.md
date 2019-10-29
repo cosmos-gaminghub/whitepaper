@@ -24,7 +24,7 @@
 * [解决方案](README.md#solutions)
   * [Gaming Hub专注于游戏开发](README.md#gh)
   * [区块链专业游戏的优势](README.md#agob)
-  * [REPT通证模型](README.md#tm)
+  * [通证模型](README.md#token)
     * [Validator Management](README.md#vm)
   * [Consensus Algorithm](README.md#consensus)
     * [BFTSystems](README.md#bft)
