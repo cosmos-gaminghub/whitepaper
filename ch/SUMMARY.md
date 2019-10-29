@@ -1,13 +1,13 @@
 # Summary
 
-* [Nibiru Whitepaper](README.md#top)
+* [Cosmos Gaming Hub Whitepaper](README.md#top)
 * [概要](README.md#abstract)
 
 * [绪论](README.md#introduction)
 	* [Our Vision](README.md#vision)
-	* [Nibiru的基本思想](README.md#principles)
+	* [Gaming Hub的基本思想](README.md#principles)
     * [游戏玩家如何受益](README.md#sbp)
-    * [游戏开发者如何在Nibiru上轻松开发](README.md#sgdd)
+    * [游戏开发者如何在Gaming Hub上轻松开发](README.md#sgdd)
     * [介绍下一代游戏的状态](README.md#pngg)
 
 * [背景](README.md#background)
@@ -20,21 +20,20 @@
   * [以太坊的问题与TPS的必要性](README.md#ietps)
   * [智能合约要解决的问题](README.md#psc)
 * [解决方案](README.md#solutions)
-  * [NibiruHub专注于游戏开发](README.md#nh)
+  * [Gaming Hub专注于游戏开发](README.md#nh)
   * [区块链专业游戏的优势](README.md#agob)
   * [REPT通证模型](README.md#rept)
-    * [REPT分配机制](README.md#dis)
     * [Validator Management](README.md#vm)
   * [Consensus Algorithm](README.md#consensus)
     * [BFTSystems](README.md#bft)
     * [Tendermint BFT Algorithm](README.md#tendermint)
-  * [Nibiru功能](README.md#nf)
+  * [Gaming Hub功能](README.md#nf)
     * [钱包和账户](README.md#wa)
     * [物品通证（token）](README.md#it)
-    * [NibiruDex和Auction](README.md#dex)
+    * [Gaming Dex和Auction](README.md#dex)
     * [玩家之间的公平交易](README.md#et)
-    * [Nibiru Funding](README.md#funding)
-    * [Nibiru SDK](README.md#sdk)
+    * [Gaming Hub Funding](README.md#funding)
+    * [Gaming Hub SDK](README.md#sdk)
 
 * [结论](README.md#conclusion)
 

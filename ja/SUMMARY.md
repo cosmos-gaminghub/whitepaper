@@ -1,13 +1,13 @@
 # Summary
 
-* [Nibiru Whitepaper](README.md#top)
+* [Cosmos Gaming Hub Whitepaper](README.md#top)
 * [概要](README.md#abstract)
 
 * [導入](README.md#introduction)
 	* [Our Vision](README.md#vision)
-	* [Nibiruの根本原理](README.md#principles)
+	* [Gaming Hubの根本原理](README.md#principles)
     * [ゲームプレイヤーが恩恵を受ける仕組み](README.md#sbp)
-    * [ゲーム開発者がNibiru上で開発を容易に行える仕組み](README.md#sgdd)
+    * [ゲーム開発者がGaming Hub上で開発を容易に行える仕組み](README.md#sgdd)
     * [次世代型のゲームのあり方を提示する](README.md#pngg)
 
 * [背景](README.md#background)
@@ -22,21 +22,20 @@
   * [Smart Contractが抱える課題](README.md#psc)
 
 * [ソリューション](README.md#solutions)
-  * [ゲームに特化したNibiru Hub](README.md#nh)
+  * [ゲームに特化したGaming Hub](README.md#nh)
   * [ゲームに特化したブロックチェーンの利点](README.md#bgsb)
   * [Token Model](README.md#rept)
-    * [REPT 分配メカニズム](README.md#dis)
     * [Validator Management](README.md#vm)
   * [Consensus Algorithm](README.md#consensus)
     * [BFT Systems](README.md#bft)
     * [Tendermint BFT Algorithm](README.md#tendermint)
-  * [Nibiru Functions](README.md#nf)
+  * [Gaming Hub Functions](README.md#nf)
     * [Wallet nad Account](README.md#wa)
     * [Item Token](README.md#it)
-    * [Nibiru Dex and Auction](README.md#dex)
+    * [Gaming Hub Dex and Auction](README.md#dex)
     * [Player間のエスクロー取引](README.md#et)
-    * [Nibiru Funding](README.md#funding)
-    * [Nibiru SDK](README.md#sdk)
+    * [Gaming Hub Funding](README.md#funding)
+    * [Gaming Hub SDK](README.md#sdk)
 
 * [結論](README.md#conclusion)
 

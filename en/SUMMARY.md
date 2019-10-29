@@ -1,11 +1,11 @@
 # Summary
 
-* [Nibiru Whitepaper](README.md#top)
+* [Cosmos Gaming Hub  Whitepaper](README.md#top)
 * [Abstruct](README.md#abstract)
 
 * [Introduction](README.md#introduction)
 	* [Our Vision](README.md#vision)
-	* [Nibiru Principles](README.md#principles)
+	* [Gaming Hub Principles](README.md#principles)
     * [System Benefiting the Players](README.md#sbp)
     * [Simplified Game Development for Developers](README.md#sgdd)
     * [Proposal for Next-Generation Gaming](README.md#pngg)
@@ -22,21 +22,20 @@
   * [Problems Facing the Smart Contract](README.md#psc)
 
 * [Solutions](README.md#solutions)
-  * [Nibiru Hub Specialized in Games](README.md#nh)
+  * [Gaming Hub Specialized in Games](README.md#nh)
   * [The benefits of game specialized blockchain](README.md#bgsb)
   * [Token Model](README.md#rept)
-    * [REPT distribution mechanism](README.md#dis)
     * [Validator Management](README.md#vm)
   * [Consensus Algorithm](README.md#consensus)
     * [BFT Systems](README.md#bft)
     * [Tendermint BFT Algorithm](README.md#tendermint)
-  * [Nibiru Functions](README.md#nf)
+  * [Gaming Hub Functions](README.md#nf)
     * [Wallet nad Account](README.md#wa)
     * [Item Token](README.md#it)
-    * [Nibiru Dex and Auction](README.md#dex)
+    * [Gaming Hub Dex and Auction](README.md#dex)
     * [Escrow Transactions between Players](README.md#et)
-    * [Nibiru Funding](README.md#funding)
-    * [Nibiru SDK](README.md#sdk)
+    * [Gaming Hub Funding](README.md#funding)
+    * [Gaming Hub SDK](README.md#sdk)
 
 * [Conclusion](README.md#conclusion)
 
