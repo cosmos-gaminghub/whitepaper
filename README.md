@@ -1,5 +1,8 @@
 # Cosmos Gaming Hub
+[![CircleCI](https://circleci.com/gh/cosmosgaming-hub/whitepaper/tree/master.svg?style=svg&circle-token=4983ceba9e7dad634aad15340b086a66d26f0b0f)](https://circleci.com/gh/cosmosgaming-hub/whitepaper/tree/master)
+
 Cosmos Gaming Hub whitepaper documents.
+
 
 ## Develop Environment
 - node
@@ -28,4 +31,4 @@ $ cd whitepaper
 $ gitbook serve
 ```
 
-see localhost:4000
+see http://localhost:4000
