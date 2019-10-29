@@ -1,5 +1,5 @@
 # Cosmos Gaming Hub
-[![CircleCI](https://circleci.com/gh/cosmosgaming-hub/whitepaper/tree/master.svg?style=svg&circle-token=4983ceba9e7dad634aad15340b086a66d26f0b0f)](https://circleci.com/gh/cosmosgaming-hub/whitepaper/tree/master)
+[![CircleCI](https://circleci.com/gh/cosmos-gaminghub/whitepaper.svg?style=svg&circle-token=290cfb84c03ce4294ebdbabda0137b165def5911)](https://circleci.com/gh/cosmos-gaminghub/whitepaper)
 
 Cosmos Gaming Hub whitepaper documents.
 
