@@ -13,7 +13,7 @@
 * [背景](README.md#background)
 	* [急成長するゲーム市場](README.md#egi)
 	* [現在のゲーム業界の課題](README.md#ifcgi)
-	* [ブロックチェーン技術の登場](README.md#egt)
+	* [ブロックチェーン技術の登場](README.md#bit)
 
 * [課題](README.md#problems)
   * [ブロックチェーン業界における課題](README.md#ifbi)
@@ -22,9 +22,9 @@
   * [Smart Contractが抱える課題](README.md#psc)
 
 * [ソリューション](README.md#solutions)
-  * [ゲームに特化したGaming Hub](README.md#nh)
+  * [ゲームに特化したGaming Hub](README.md#gh)
   * [ゲームに特化したブロックチェーンの利点](README.md#bgsb)
-  * [Token Model](README.md#rept)
+  * [Token Model](README.md#tm)
     * [Validator Management](README.md#vm)
   * [Consensus Algorithm](README.md#consensus)
     * [BFT Systems](README.md#bft)

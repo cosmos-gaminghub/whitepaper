@@ -13,7 +13,7 @@
 * [Background](README.md#background)
 	* [Evolution of the Gaming Industry](README.md#egi)
 	* [Issues Facing the Current Gaming Industry](README.md#ifcgi)
-	* [Blockchain Industry Trends](README.md#egt)
+	* [Blockchain Industry Trends](README.md#bit)
 
 * [Problems](README.md#problems)
   * [Issues Facing the Blockchain Industry](README.md#ifbi)
@@ -22,9 +22,9 @@
   * [Problems Facing the Smart Contract](README.md#psc)
 
 * [Solutions](README.md#solutions)
-  * [Gaming Hub Specialized in Games](README.md#nh)
+  * [Gaming Hub Specialized in Games](README.md#gh)
   * [The benefits of game specialized blockchain](README.md#bgsb)
-  * [Token Model](README.md#rept)
+  * [Token Model](README.md#tm)
     * [Validator Management](README.md#vm)
   * [Consensus Algorithm](README.md#consensus)
     * [BFT Systems](README.md#bft)
