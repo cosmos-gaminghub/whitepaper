@@ -4,11 +4,29 @@ orbs:
 jobs:
   build:
     docker:
-      - image: 'circleci/python:2.7'
+      - image: 'circleci/node:latest'
     steps:
       - checkout
+      - run: mkdir -p /tmp/build
+      - run: npm install
+      - run:
+         name: install gitbook cli
+         command: sudo npm install -g gitbook-cli
+      - run:
+         name: build gitbook!
+         command: gitbook build . /tmp/build
+      - persist_to_workspace:
+         root: /tmp
+         paths:
+           - build
+  deploy:
+    docker:
+      - image: 'circleci/python:2.7'
+    steps:
+      - attach_workspace:
+          at: /tmp/build
       - aws-s3/sync:
-          from: .
+          from: /tmp/build/*
           to: 's3://${AWS_S3_BUCKET_NAME}'
           aws-access-key-id: AWS_ACCESS_KEY_ID
           aws-secret-access-key: AWS_SECRET_ACCESS_KEY
@@ -17,3 +35,11 @@ jobs:
             --acl public-read \
             --cache-control "max-age=86400"
           overwrite: true
+
+workflows:
+    build:
+      jobs:
+        - build
+        - deploy:
+           requires:
+            - build
