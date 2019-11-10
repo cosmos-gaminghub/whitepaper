@@ -443,3 +443,6 @@ Gaming Hub may be subject to system failure due to the low value of quark.
 Encrypted token is a new technology that is not encrypted. In addition to the risks described above, the Gaming Hub development team will face unforeseen risks. Unanticipated risks may emerge as result of unexpected combinations or changes of the risks described above.
 
 
+Cosmos Gaming Hub's 'Cosmos' does not mean that our project is organized by cosmos team or sponsored from The Interchain Foundation.
+
+
