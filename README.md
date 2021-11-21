@@ -6,29 +6,23 @@ Cosmos Gaming Hub whitepaper documents.
 
 ## Develop Environment
 - node
-- gitbook
-- yarn or npm
+- HonKit
 
 ## Get Started
 
-**install gitbook** with yarn
+
+npm
 
 ```
-$ yarn global add gitbook-cli --prefix /usr/local
+$ npm install
 ```
 
-or npm
-
-```
-$ npm install --global gitbook-cli
-```
-
-**start gitbook**
+**start HonKit
 
 ```
 $ git clone https://github.com/cosmos-gaminghub/whitepaper.git
 $ cd whitepaper
-$ gitbook serve
+$ npx honkit serve
 ```
 
 see http://localhost:4000
