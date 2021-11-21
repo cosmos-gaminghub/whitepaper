@@ -1,3 +1,2 @@
-* [English](en/)
-* [Japanese](ja/)
-* [Chinese](ch/)
+* [English](v2/en/)
+* [Japanese](v2/ja/)
