@@ -1,0 +1,23 @@
+{
+  "name": "whitepaper",
+  "version": "1.0.0",
+  "description": "[![CircleCI](https://circleci.com/gh/cosmos-gaminghub/whitepaper.svg?style=svg&circle-token=290cfb84c03ce4294ebdbabda0137b165def5911)](https://circleci.com/gh/cosmos-gaminghub/whitepaper)",
+  "main": "index.js",
+  "dependencies": {
+    "honkit": "^3.6.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmos-gaminghub/whitepaper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cosmos-gaminghub/whitepaper/issues"
+  },
+  "homepage": "https://github.com/cosmos-gaminghub/whitepaper#readme"
+}

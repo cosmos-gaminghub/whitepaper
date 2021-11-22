@@ -1,34 +1,27 @@
-# Cosmos Gaming Hub
-[![CircleCI](https://circleci.com/gh/cosmos-gaminghub/whitepaper.svg?style=svg&circle-token=290cfb84c03ce4294ebdbabda0137b165def5911)](https://circleci.com/gh/cosmos-gaminghub/whitepaper)
+# GAME Whitepaper
 
-Cosmos Gaming Hub whitepaper documents.
+GAME whitepaper documents.
 
 
 ## Develop Environment
 - node
-- gitbook
-- yarn or npm
+- HonKit
 
 ## Get Started
 
-**install gitbook** with yarn
+
+npm
 
 ```
-$ yarn global add gitbook-cli --prefix /usr/local
+$ npm install
 ```
 
-or npm
-
-```
-$ npm install --global gitbook-cli
-```
-
-**start gitbook**
+**start HonKit
 
 ```
 $ git clone https://github.com/cosmos-gaminghub/whitepaper.git
 $ cd whitepaper
-$ gitbook serve
+$ npx honkit serve
 ```
 
 see http://localhost:4000

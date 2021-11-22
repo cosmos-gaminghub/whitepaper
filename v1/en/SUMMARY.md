@@ -1,0 +1,47 @@
+# Summary
+
+* [Cosmos Gaming Hub  Whitepaper](README.md#top)
+* [Abstruct](README.md#abstract)
+
+* [Introduction](README.md#introduction)
+	* [Our Vision](README.md#vision)
+	* [Gaming Hub Principles](README.md#principles)
+    * [System Benefiting the Players](README.md#sbp)
+    * [Simplified Game Development for Developers](README.md#sgdd)
+    * [Proposal for Next-Generation Gaming](README.md#pngg)
+
+* [Background](README.md#background)
+	* [Evolution of the Gaming Industry](README.md#egi)
+	* [Issues Facing the Current Gaming Industry](README.md#ifcgi)
+	* [Blockchain Industry Trends](README.md#bit)
+
+* [Problems](README.md#problems)
+  * [Issues Facing the Blockchain Industry](README.md#ifbi)
+  * [Problems Facing the Current Consensus Algorithm](README.md#pcca)
+  * [Issues to the Ethereum and the Need for TPS](README.md#ietps)
+  * [Problems Facing the Smart Contract](README.md#psc)
+
+* [Solutions](README.md#solutions)
+  * [Gaming Hub Specialized in Games](README.md#gh)
+  * [The benefits of game specialized blockchain](README.md#bgsb)
+  * [Token Model](README.md#token)
+    * [Validator Management](README.md#vm)
+  * [Consensus Algorithm](README.md#consensus)
+    * [BFT Systems](README.md#bft)
+    * [Tendermint BFT Algorithm](README.md#tendermint)
+  * [Gaming Hub Functions](README.md#nf)
+    * [Wallet nad Account](README.md#wa)
+    * [Item Token](README.md#it)
+    * [Gaming Hub Dex and Auction](README.md#dex)
+    * [Escrow Transactions between Players](README.md#et)
+    * [Gaming Hub Funding](README.md#funding)
+    * [Gaming Hub SDK](README.md#sdk)
+
+* [Conclusion](README.md#conclusion)
+
+* [References](README.md#references)
+* [Appendices](README.md#appendices)
+  * [Appendix A: Account State vs UTXOs](README.md#appendix-a)
+  * [Appendix B: how to define game assets on Ethereum](README.md#appendix-b)
+  * [Appendix C: DEX vs CEX](README.md#appendix-c)
+* [Risks](README.md#risks)
